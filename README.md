@@ -1,9 +1,11 @@
 **📊 Credit Risk End-to-End Data Analytics Project**
+
 **📌 Project Overview**
 
 This project demonstrates a complete end-to-end data analytics workflow for credit risk analysis. It involves transforming raw financial data into meaningful insights through data cleaning, database design, and interactive dashboard development.The goal is to identify high-risk customers, understand loan behavior, and monitor risk trends over time.
 
 **🛠 Tools & Technologies**
+
 Python (Pandas, NumPy) → Data cleaning & preprocessing
 MySQL → Data storage & querying
 Power BI → Data visualization & dashboarding
